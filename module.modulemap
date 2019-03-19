@@ -1,0 +1,5 @@
+module Clibyaml [system] {
+	header "shim.h"
+	link "yaml"
+	export *
+}
